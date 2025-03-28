@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: normal;
+  background-color: #daa38f;
+  color:#000;
+}
+
+/* rosa #daa38f, wheat #dcf49b, chocolate #684627, coffee #987d61, cream #fed8a6 */
+
+header{
+  display:flex;
+  justify-content:space-between;
+  align-items:left;
+  background-color: #daa38f;
+  border-bottom:1px solid #684627;
+}
